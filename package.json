@@ -1,0 +1,13 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "main.0d8402ef606d30f0939d.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
